@@ -1,5 +1,5 @@
 {
-  "name": "waku-practice",
+  "name": "waku-with-yarn-pnp",
   "version": "0.0.0",
   "type": "module",
   "private": true,
